@@ -1,14 +1,24 @@
 ### Hey,YubinXue here! 👋
 ---
+<table width="960px">
+<tr>
+<td valign="top" width="50%">
 
-I'm Xue Yubin, a college student from Xi 'an, China.
+#### 🏋️‍♀️ I'm Xue Yubin, a college student from Xi 'an, China.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- --
+<!-- recent_releases starts -->
+- 💡Familiar programming languages:
+- ⚒I use daily:
+<!-- recent_releases ends -->
+
+<td valign="top" width="50%">
+
+
+
+<!-- weekly starts -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YubinXue&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- weekly ends -->
+
+<tr>
+<td valign="top" width="50%">
+
