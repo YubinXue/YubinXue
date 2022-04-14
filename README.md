@@ -1,10 +1,12 @@
-### Hey,YubinXue here! 👋
+### Hey! Nice to see you. 👋
 ---
+<p>Welcome to my page!<p>
+<p>I'm Xue Yubin, a college student from Xi 'an, China.<p>
 <table width="960px">
 <tr>
 <td valign="top" width="50%">
 
-#### 🏋️‍♀️ I'm Xue Yubin, a college student from Xi 'an, China.
+#### 🏋️‍♀️ 
 
 <!-- recent_releases starts -->
 - 💡Familiar programming languages:
