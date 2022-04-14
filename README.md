@@ -9,8 +9,8 @@
 #### 🏋️‍♀️ 
 
 <!-- recent_releases starts -->
-- 💡Familiar programming languages:
-- ⚒I use daily:
+- 💡Familiar programming languages:C，C++.
+- ⚒I use daily:Git,Linux,Shell.
 <!-- recent_releases ends -->
 
 <td valign="top" width="50%">
